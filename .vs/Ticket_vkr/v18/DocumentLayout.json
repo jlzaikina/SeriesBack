@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ticket_vkr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE08A-5971-44C1-881D-5AD0005C8B02}|Ticket_vkr.Infrastructure\\Ticket_vkr.Infrastructure.csproj|d:\\ticket_vkr\\ticket_vkr.infrastructure\\adapters\\postgres\\userpostgresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE08A-5971-44C1-881D-5AD0005C8B02}|Ticket_vkr.Infrastructure\\Ticket_vkr.Infrastructure.csproj|solutionrelative:ticket_vkr.infrastructure\\adapters\\postgres\\userpostgresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\ports\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\ports\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\application\\handlers\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\application\\handlers\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\application\\handlers\\ihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\application\\handlers\\ihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|d:\\ticket_vkr\\ticket_vkr.ui\\adapters\\http\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|solutionrelative:ticket_vkr.ui\\adapters\\http\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE08A-5971-44C1-881D-5AD0005C8B02}|Ticket_vkr.Infrastructure\\Ticket_vkr.Infrastructure.csproj|d:\\ticket_vkr\\ticket_vkr.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DABE08A-5971-44C1-881D-5AD0005C8B02}|Ticket_vkr.Infrastructure\\Ticket_vkr.Infrastructure.csproj|solutionrelative:ticket_vkr.infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\entities\\userseriesstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\entities\\userseriesstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\entities\\seriesgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\entities\\seriesgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\entities\\seriesdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\entities\\seriesdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\entities\\seriesactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\entities\\seriesactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\entities\\series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\entities\\series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\entities\\genres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\entities\\genres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\entities\\directors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\entities\\directors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\entities\\actors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\entities\\actors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\domain\\status\\updatestatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\domain\\status\\updatestatusrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\domain\\status\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\domain\\status\\statusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|d:\\ticket_vkr\\ticket_vkr.core\\domain\\status\\addseriesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA4DA383-4FA3-44BB-8CC2-216D0098EE71}|Ticket_vkr.Core\\Ticket_vkr.Core.csproj|solutionrelative:ticket_vkr.core\\domain\\status\\addseriesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|d:\\ticket_vkr\\ticket_vkr.ui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|solutionrelative:ticket_vkr.ui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|d:\\ticket_vkr\\ticket_vkr.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|solutionrelative:ticket_vkr.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|d:\\ticket_vkr\\ticket_vkr.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|solutionrelative:ticket_vkr.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|d:\\ticket_vkr\\ticket_vkr.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|solutionrelative:ticket_vkr.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|d:\\ticket_vkr\\ticket_vkr.ui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|solutionrelative:ticket_vkr.ui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|d:\\ticket_vkr\\ticket_vkr.ui\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|solutionrelative:ticket_vkr.ui\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DABE08A-5971-44C1-881D-5AD0005C8B02}|Ticket_vkr.Infrastructure\\Ticket_vkr.Infrastructure.csproj|d:\\ticket_vkr\\ticket_vkr.infrastructure\\ticket_vkr.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DABE08A-5971-44C1-881D-5AD0005C8B02}|Ticket_vkr.Infrastructure\\Ticket_vkr.Infrastructure.csproj|solutionrelative:ticket_vkr.infrastructure\\ticket_vkr.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserSeriesStatus.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\UserSeriesStatus.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\UserSeriesStatus.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\UserSeriesStatus.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Entities\\UserSeriesStatus.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:21:35.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Ports\\IRepository.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Ports\\IRepository.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Ports\\IRepository.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Ports\\IRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:08:12.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserPostgresRepository.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Infrastructure\\Adapters\\Postgres\\UserPostgresRepository.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Infrastructure\\Adapters\\Postgres\\UserPostgresRepository.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Infrastructure\\Adapters\\Postgres\\UserPostgresRepository.cs",
+              "RelativeToolTip": "Ticket_vkr.Infrastructure\\Adapters\\Postgres\\UserPostgresRepository.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAjwGcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:08:12.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Ticket_vkr.Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:08:12.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Adapters\\Http\\Controller.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.UI\\Adapters\\Http\\Controller.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Adapters\\Http\\Controller.cs",
+              "RelativeToolTip": "Ticket_vkr.UI\\Adapters\\Http\\Controller.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAC8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:08:12.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeriesActor.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\SeriesActor.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\SeriesActor.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\SeriesActor.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Entities\\SeriesActor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T20:27:41.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Series.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\Series.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\Series.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\Series.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Entities\\Series.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T16:35:34.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "News.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\News.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\News.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\News.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Entities\\News.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T17:50:39.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHandler.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Application\\Handlers\\IHandler.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Application\\Handlers\\IHandler.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Application\\Handlers\\IHandler.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Application\\Handlers\\IHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:30:03.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Application\\Handlers\\Handler.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Application\\Handlers\\Handler.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Application\\Handlers\\Handler.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Application\\Handlers\\Handler.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAewFQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:35:40.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeriesGenre.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\SeriesGenre.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\SeriesGenre.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\SeriesGenre.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Entities\\SeriesGenre.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T16:45:46.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeriesDirector.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\SeriesDirector.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\SeriesDirector.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\SeriesDirector.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Entities\\SeriesDirector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T20:28:03.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Genres.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\Genres.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\Genres.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\Genres.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Entities\\Genres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T16:46:10.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Directors.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\Directors.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\Directors.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\Directors.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Entities\\Directors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T20:26:54.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Actors.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\Actors.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\Actors.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\Actors.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Entities\\Actors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T20:26:21.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateStatusRequest.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Domain\\Status\\UpdateStatusRequest.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Domain\\Status\\UpdateStatusRequest.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Domain\\Status\\UpdateStatusRequest.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Domain\\Status\\UpdateStatusRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:08:12.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StatusDto.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Domain\\Status\\StatusDto.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Domain\\Status\\StatusDto.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Domain\\Status\\StatusDto.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Domain\\Status\\StatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:08:12.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddSeriesRequest.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Domain\\Status\\AddSeriesRequest.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.Core\\Domain\\Status\\AddSeriesRequest.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Domain\\Status\\AddSeriesRequest.cs",
+              "RelativeToolTip": "Ticket_vkr.Core\\Domain\\Status\\AddSeriesRequest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T20:14:43.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Startup.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.UI\\Startup.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Startup.cs",
+              "RelativeToolTip": "Ticket_vkr.UI\\Startup.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADgvycAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:08:12.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Program.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.UI\\Program.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Program.cs",
+              "RelativeToolTip": "Ticket_vkr.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:08:12.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Ticket_vkr.UI\\appsettings.Development.json",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.UI\\appsettings.Development.json",
+              "RelativeToolTip": "Ticket_vkr.UI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T15:08:12.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ticket_vkr.UI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ticket_vkr.UI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T15:13:44.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "Ticket_vkr.UI\\appsettings.json",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.UI\\appsettings.json",
+              "RelativeToolTip": "Ticket_vkr.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T15:08:12.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Settings.cs",
+              "RelativeDocumentMoniker": "Ticket_vkr.UI\\Settings.cs",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Settings.cs",
+              "RelativeToolTip": "Ticket_vkr.UI\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:08:12.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Ticket_vkr.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Infrastructure\\Ticket_vkr.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Ticket_vkr.Infrastructure\\Ticket_vkr.Infrastructure.csproj",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.Infrastructure\\Ticket_vkr.Infrastructure.csproj",
+              "RelativeToolTip": "Ticket_vkr.Infrastructure\\Ticket_vkr.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-25T15:08:12.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

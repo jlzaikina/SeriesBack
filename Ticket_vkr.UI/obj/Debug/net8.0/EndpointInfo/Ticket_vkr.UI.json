@@ -1,0 +1,348 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Сервис сериалов",
+    "description": "Сервис сериалов (ASP.NET Core 8.0)"
+  },
+  "paths": {
+    "/getstatuses": {
+      "get": {
+        "tags": [
+          ""
+        ],
+        "parameters": [
+          {
+            "name": "deviceId",
+            "in": "query",
+            "style": "form",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/updatestatus": {
+      "post": {
+        "tags": [
+          ""
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "SeriesId": {
+                    "type": "string"
+                  },
+                  "Status": {
+                    "type": "string"
+                  },
+                  "DeviceId": {
+                    "type": "string"
+                  }
+                }
+              },
+              "encoding": {
+                "SeriesId": {
+                  "style": "form"
+                },
+                "Status": {
+                  "style": "form"
+                },
+                "DeviceId": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/getnews": {
+      "get": {
+        "tags": [
+          ""
+        ],
+        "parameters": [
+          {
+            "name": "sortBy",
+            "in": "query",
+            "style": "form",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "ascending",
+            "in": "query",
+            "style": "form",
+            "schema": {
+              "type": "boolean",
+              "default": true
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/getseries": {
+      "get": {
+        "tags": [
+          ""
+        ],
+        "parameters": [
+          {
+            "name": "page",
+            "in": "query",
+            "style": "form",
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 1
+            }
+          },
+          {
+            "name": "pageSize",
+            "in": "query",
+            "style": "form",
+            "schema": {
+              "type": "integer",
+              "format": "int32",
+              "default": 6
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/filter/by-year": {
+      "get": {
+        "tags": [
+          ""
+        ],
+        "parameters": [
+          {
+            "name": "from",
+            "in": "query",
+            "style": "form",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "to",
+            "in": "query",
+            "style": "form",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/filter/by-genre": {
+      "get": {
+        "tags": [
+          ""
+        ],
+        "parameters": [
+          {
+            "name": "genre",
+            "in": "query",
+            "style": "form",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/filter/combined": {
+      "get": {
+        "tags": [
+          ""
+        ],
+        "parameters": [
+          {
+            "name": "from",
+            "in": "query",
+            "style": "form",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "to",
+            "in": "query",
+            "style": "form",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "genre",
+            "in": "query",
+            "style": "form",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/add": {
+      "post": {
+        "tags": [
+          ""
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddSeriesRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddSeriesRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AddSeriesRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AddSeriesRequest": {
+        "required": [
+          "cast",
+          "country",
+          "description",
+          "director",
+          "duration",
+          "genres",
+          "rating",
+          "seasons",
+          "title",
+          "year"
+        ],
+        "type": "object",
+        "properties": {
+          "title": {
+            "maxLength": 100,
+            "minLength": 2,
+            "pattern": "^[a-zA-Zа-яА-Я0-9\\s\\-\\.\\,]+$",
+            "type": "string"
+          },
+          "genres": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "year": {
+            "maximum": 2030,
+            "minimum": 1950,
+            "type": "integer",
+            "format": "int32"
+          },
+          "seasons": {
+            "maximum": 50,
+            "minimum": 1,
+            "type": "integer",
+            "format": "int32"
+          },
+          "duration": {
+            "maximum": 180,
+            "minimum": 5,
+            "type": "integer",
+            "format": "int32"
+          },
+          "director": {
+            "maxLength": 50,
+            "minLength": 2,
+            "type": "string"
+          },
+          "cast": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "rating": {
+            "maximum": 10,
+            "minimum": 0,1,
+            "type": "number",
+            "format": "double"
+          },
+          "country": {
+            "maxLength": 50,
+            "minLength": 2,
+            "type": "string"
+          },
+          "poster": {
+            "pattern": "^[\\w\\-\\.]+\\.(jpg|jpeg|png|gif|webp)$",
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
+            "maxLength": 2000,
+            "minLength": 50,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

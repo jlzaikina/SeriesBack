@@ -120,3 +120,4 @@ D:\Ticket_vkr\Ticket_vkr.UI\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\Ticket_vkr\Ticket_vkr.UI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 D:\Ticket_vkr\Ticket_vkr.UI\obj\Debug\net8.0\swae.build.ex.cache
 D:\Ticket_vkr\Ticket_vkr.UI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Ticket_vkr\Ticket_vkr.UI\obj\Debug\net8.0\Ticket_vkr.UI.sourcelink.json

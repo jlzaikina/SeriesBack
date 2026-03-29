@@ -34,12 +34,12 @@ public class Startup
     {
 
         // Configuration
-        var connectionString = Configuration["CONNECTION_STRING"];
+        var connectionString = "Server=dpg-d73pmdsr85hc73ffriq0-a.oregon-postgres.render.com;Port=5432;User Id=myapp_db_g8qj_user;Password=LvGihhDXmoyQyzBFVWArHSvsuVzsiySU;Database=myapp_db_g8qj;";
 
         services.AddDbContext<ApplicationDbContext>(options =>
         {
             options.UseExceptionProcessor();
-            options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"));
+            options.UseNpgsql(connectionString);
         }, ServiceLifetime.Scoped);
 
         //Регистрация сервисов

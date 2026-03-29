@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ticket_vkr.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c67d42c25a8bf0cd24b5c0178c2cce7d044392a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f6b67bf8f3ca60e0e8d12741ffbfd8c5736ccda")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ticket_vkr.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ticket_vkr.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -39,7 +39,7 @@ public class Startup
         services.AddDbContext<ApplicationDbContext>(options =>
         {
             options.UseExceptionProcessor();
-            options.UseNpgsql(connectionString);
+            options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection"));
         }, ServiceLifetime.Scoped);
 
         //Регистрация сервисов

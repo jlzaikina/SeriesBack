@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\Ticket_vkr\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|d:\\ticket_vkr\\ticket_vkr.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{9EA1EDFD-04A6-48D3-AF80-5CA4D7B56696}|Ticket_vkr.UI\\Ticket_vkr.UI.csproj|solutionrelative:ticket_vkr.ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -114,7 +117,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 120,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,7 +133,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\Juli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\Juli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\build\\Container.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-03-29T19:21:36.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Program.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.UI\\Program.cs",
@@ -143,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Settings.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Settings.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.UI\\Settings.cs",
@@ -156,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Startup.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.UI\\Startup.cs",
@@ -169,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Infrastructure\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Infrastructure\\ApplicationDbContext.cs",
@@ -182,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\appsettings.json",
               "RelativeDocumentMoniker": "Ticket_vkr.UI\\appsettings.json",
@@ -195,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Ticket_vkr.UI\\appsettings.Development.json",
@@ -208,12 +222,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Ticket_vkr.UI\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Properties\\launchSettings.json*",
-              "RelativeToolTip": "Ticket_vkr.UI\\Properties\\launchSettings.json*",
+              "ToolTip": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ticket_vkr.UI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-25T15:13:44.699Z",
@@ -221,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Dockerfile",
               "RelativeDocumentMoniker": "Ticket_vkr.UI\\Dockerfile",
@@ -233,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "SeriesActor.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\SeriesActor.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\SeriesActor.cs",
@@ -245,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Controller.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.UI\\Adapters\\Http\\Controller.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.UI\\Adapters\\Http\\Controller.cs",
@@ -257,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UserPostgresRepository.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Infrastructure\\Adapters\\Postgres\\UserPostgresRepository.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Infrastructure\\Adapters\\Postgres\\UserPostgresRepository.cs",
@@ -269,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Ports\\IRepository.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Ports\\IRepository.cs",
@@ -281,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "UserSeriesStatus.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\UserSeriesStatus.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\UserSeriesStatus.cs",
@@ -293,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Series.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\Series.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\Series.cs",
@@ -305,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "News.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\News.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\News.cs",
@@ -317,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IHandler.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Application\\Handlers\\IHandler.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Application\\Handlers\\IHandler.cs",
@@ -329,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Handler.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Application\\Handlers\\Handler.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Application\\Handlers\\Handler.cs",
@@ -341,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SeriesGenre.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\SeriesGenre.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\SeriesGenre.cs",
@@ -353,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "SeriesDirector.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\SeriesDirector.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\SeriesDirector.cs",
@@ -365,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Genres.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\Genres.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\Genres.cs",
@@ -377,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Directors.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\Directors.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\Directors.cs",
@@ -389,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Actors.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Entities\\Actors.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Entities\\Actors.cs",
@@ -401,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "UpdateStatusRequest.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Domain\\Status\\UpdateStatusRequest.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Domain\\Status\\UpdateStatusRequest.cs",
@@ -413,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "StatusDto.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Domain\\Status\\StatusDto.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Domain\\Status\\StatusDto.cs",
@@ -425,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "AddSeriesRequest.cs",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Core\\Domain\\Status\\AddSeriesRequest.cs",
               "RelativeDocumentMoniker": "Ticket_vkr.Core\\Domain\\Status\\AddSeriesRequest.cs",
@@ -437,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Ticket_vkr.Infrastructure.csproj",
               "DocumentMoniker": "D:\\Ticket_vkr\\Ticket_vkr.Infrastructure\\Ticket_vkr.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Ticket_vkr.Infrastructure\\Ticket_vkr.Infrastructure.csproj",
@@ -445,7 +459,8 @@
               "RelativeToolTip": "Ticket_vkr.Infrastructure\\Ticket_vkr.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-25T15:08:12.695Z"
+              "WhenOpened": "2026-02-25T15:08:12.695Z",
+              "EditorCaption": ""
             }
           ]
         }
